@@ -9,3 +9,4 @@ ASP.NET VNEXT
 Elasticsearch
 RavenDB
 MongoDB
+Redis
