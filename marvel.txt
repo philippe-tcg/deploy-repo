@@ -19,3 +19,5 @@ C#
 PHP
 jenkins
 SQL
+StructureMap
+Ninject
